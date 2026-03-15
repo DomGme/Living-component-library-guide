@@ -6,6 +6,7 @@ No retrofitting. No separate design system project. The library IS the product.
 The Core Idea
   "Build me a settings page"
 
+
   Claude checks the library:
 
   ┌──────────────────────────────────┐
